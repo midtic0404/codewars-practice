@@ -139,4 +139,6 @@ function checkValidChars(text) {
     }
 }
 
+console.log(encrypt("Do the kata Kobayashi Maru Test. Endless fun and excitement when finding a solution."));
+
 console.log(decrypt("rfR9qRVMT8TUfeyXGXdrLUcT.dUmVd5xUNo1oRdZQ1dtUXs1QVmRL8RMVt9RHqRtU1Ps1LtPQXVdbpZ9Lfp1"));
