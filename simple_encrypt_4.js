@@ -111,7 +111,3 @@ function getCorrectCase(originalChar, newChar) {
     return newChar;
 
 }
-
-
-
-console.log(decrypt('Sr pgi jlpl Jr,lqlage Zlow Piapc I.skiaa dw. l.s ibnepizi.p ugi. de.se.f l arkwper.c', 583));
